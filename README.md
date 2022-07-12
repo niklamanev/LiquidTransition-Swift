@@ -10,10 +10,10 @@ Features:
 * Animation of custom properties *(or `CALayer` properties)*
 * Complex transition without 'lag'
 
-![Web browser](https://github.com/niklamanev/LiquidTransition-Swift/raw/screenshots/gif/web_browser.gif "Web browser") &nbsp;
-![Photo browser](https://github.com/niklamanev/LiquidTransition-Swift/raw/screenshots/gif/photo_browser.gif "Photo browser") <br>
-![Complex animation](https://github.com/niklamanev/LiquidTransition-Swift/raw/screenshots/gif/complex_animation.gif "Complex animation") &nbsp;
-![Complex animation](https://github.com/niklamanev/LiquidTransition-Swift/raw/screenshots/gif/github_user_profiles.gif "Gihub user profiles animation")
+![Web browser](https://github.com/niklamanev/LiquidTransition-Swift/blob/main/raw/screenshots/gif/web_browser.gif "Web browser") &nbsp;
+![Photo browser](https://github.com/niklamanev/LiquidTransition-Swift/blob/main/raw/screenshots/gif/photo_browser.gif "Photo browser") <br>
+![Complex animation](https://github.com/niklamanev/LiquidTransition-Swift/blob/main/raw/screenshots/gif/complex_animation.gif "Complex animation") &nbsp;
+![Complex animation](https://github.com/niklamanev/LiquidTransition-Swift/blob/main/raw/screenshots/gif/github_user_profiles.gif "Gihub user profiles animation")
 
 ## Instalation
 
